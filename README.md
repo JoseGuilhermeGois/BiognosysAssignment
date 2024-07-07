@@ -30,7 +30,7 @@
 ## Instructions to run locally
 **Using bash**:
 1. **Clone the repository**:
-- git clone https://github.com/JoseGuilhermeGois/Interview-Assignment.git
+- git clone https://github.com/JoseGuilhermeGois/BiognosysAssignment.git
 - cd 'your-repository-directory'
 
 2. **Set up a Virtual Environment**:    # Not necessary but recommended
